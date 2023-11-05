@@ -1,3 +1,3 @@
 <h2 align="center">
-    Belajar GIT
+    Halo
 </h2>
